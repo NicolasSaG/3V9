@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class CantidadesYPrecios{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		double precios[16];
-		int cantidad[16];
+		double precios[] = new double[16];
+		int cantidad[] = new int[16];
+		double c;
 
 		System.out.println("Programa que lee cantidades y precios, al final indica la factura:");
 		for(int i = 0; i < 16; i++){
