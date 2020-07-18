@@ -57,6 +57,7 @@ class Menu{
 				
 		}
 	}
+	
 	public static void imprimirMenu(){
 		System.out.println("Escoge una opcion:");
 		System.out.println("1) Sacar perimetro y area de un triangulo");
