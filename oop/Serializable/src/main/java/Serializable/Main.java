@@ -9,7 +9,7 @@ package Serializable;
  *
  * @author Alumno
  */
-public class Archivos {
+public class Main {
 
     /**
      * @param args the command line arguments
